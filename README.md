@@ -3,6 +3,7 @@ A repository containing a few of my python projects
 ## Project List:
 
 [Tic Tac Toe](#Tic-Tac-Toe)
+
 [Blackjack](#Blackjack)
 
 ## Tic Tac Toe
